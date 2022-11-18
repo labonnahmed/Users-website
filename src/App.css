@@ -1,0 +1,13 @@
+.main-container{
+  display: flex;
+}
+
+.user-container{
+  border-right: 1px solid #FD841F;
+  margin-left: 40px;
+  width: 70%;
+}
+
+.cart-container{
+  width: 30%;
+}

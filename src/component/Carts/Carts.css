@@ -1,0 +1,13 @@
+.cart{
+    position: fixed;
+}
+
+.cart-header{
+    border-bottom: 1px solid #FD841F;
+    margin: 20px;
+    padding: 5px;
+}
+
+.cart-body{
+    margin-left: 20px;
+}
