@@ -7,7 +7,7 @@ import fakeData from './fakeData/data';
 function App() {
   const [users, setUsers] = useState([]);
   useEffect (() => setUsers(fakeData), []);
-  const [friends, setFriends]= useState([])
+  const [friends, setFriends]= useState([]);
 
   const handleAddFriends= (friend) => {
     setFriends([...friends, friend])

@@ -4,118 +4,118 @@
   "email": "mstanley0@xing.com",
   "gender": "Male",
   "age": 42,
-  "income": 3799,
-  "image": 9061
+  "followers": 3799,
+  "img":"https://i.postimg.cc/Bb9YskTK/player-1.png"
 }, {
   "_id": 2,
   "name": "Anton Hince",
   "email": "ahince1@google.cn",
   "gender": "Male",
   "age": 25,
-  "income": 4402,
-  "image ": 2180
+  "followers": 4402,
+  "img":"https://i.postimg.cc/5NkzCvrP/player-2.png"
 }, {
   "_id": 3,
   "name": "Ravid Yantsev",
   "email": "ryantsev2@walmart.com",
   "gender": "Male",
   "age": 38,
-  "income": 3690,
-  "image ": 8547
+  "followers": 3690,
+  "img":"https://i.postimg.cc/qRjqdHVm/player-3.png"
 }, {
   "_id": 4,
   "name": "Darryl Garz",
   "email": "dgarz3@eepurl.com",
   "gender": "Male",
   "age": 31,
-  "income": 9423,
-  "image ": 3955
+  "followers": 9423,
+  "img":"https://i.postimg.cc/bY5Y0Tz2/player-4.png"
 }, {
   "_id": 5,
   "name": "Rossy Klampt",
   "email": "rklampt4@sciencedaily.com",
   "gender": "Male",
   "age": 44,
-  "income": 8935,
-  "image ": 8278
+  "followers": 8935,
+  "img":"https://i.postimg.cc/JtwWfpn6/player-5.png"
 }, {
   "_id": 6,
   "name": "Shepperd Saiz",
   "email": "ssaiz5@dailymotion.com",
   "gender": "Male",
   "age": 47,
-  "income": 4799,
-  "image ": 7455
+  "followers": 4799,
+  "img":"https://i.postimg.cc/NFX0292n/player-6.png"
 }, {
   "_id": 7,
   "name": "Davie Armor",
   "email": "darmor6@amazon.com",
   "gender": "Male",
   "age": 21,
-  "income": 8386,
-  "image ": 7511
+  "followers": 8386,
+  "img":"https://i.postimg.cc/Bb9YskTK/player-1.png"
 }, {
   "_id": 8,
   "name": "Douglass MacNab",
   "email": "dmacnab7@reverbnation.com",
   "gender": "Male",
   "age": 26,
-  "income": 6173,
-  "image ": 5266
+  "followers": 6173,
+  "img":"https://i.postimg.cc/qRjqdHVm/player-3.png"
 }, {
   "_id": 9,
   "name": "Thekla Gillinghams",
   "email": "tgillinghams8@dailymail.co.uk",
   "gender": "Female",
   "age": 25,
-  "income": 2594,
-  "image ": 6721
+  "followers": 2594,
+  "img":"https://i.postimg.cc/5NkzCvrP/player-2.png"
 }, {
   "_id": 10,
   "name": "Mortie Barkly",
   "email": "mbarkly9@theatlantic.com",
   "gender": "Male",
   "age": 27,
-  "income": 5674,
-  "image ": 6958
+  "followers": 5674,
+  "img":"https://i.postimg.cc/qRjqdHVm/player-3.png"
 }, {
   "_id": 11,
   "name": "Burr Kuhn",
   "email": "bkuhna@foxnews.com",
   "gender": "Male",
   "age": 21,
-  "income": 8241,
-  "image ": 6615
+  "followers": 8241,
+  "img":"https://i.postimg.cc/JtwWfpn6/player-5.png"
 }, {
   "_id": 12,
   "name": "Blake Drohan",
   "email": "bdrohanb@1und1.de",
   "gender": "Male",
   "age": 37,
-  "income": 6099,
-  "image ": 8821
+  "followers": 6099,
+  "img":"https://i.postimg.cc/qRjqdHVm/player-3.png"
 }, {
   "_id": 13,
   "name": "Aubrey Skin",
   "email": "askinc@live.com",
   "gender": "Female",
   "age": 29,
-  "income": 1688,
-  "image ": 1596
+  "followers": 1688,
+  "img":"https://i.postimg.cc/5NkzCvrP/player-2.png"
 }, {
   "_id": 14,
   "name": "Brooks Simonetti",
   "email": "bsimonettid@rediff.com",
   "gender": "Non-binary",
   "age": 32,
-  "income": 4406,
-  "image ": 9365
+  "followers": 4406,
+  "img":"https://i.postimg.cc/NFX0292n/player-6.png"
 }, {
   "_id": 15,
   "name": "Raye Drewes",
   "email": "rdrewese@ihg.com",
   "gender": "Female",
   "age": 31,
-  "income": 4405,
-  "image ": 6814
+  "followers": 4405,
+  "img":"https://i.postimg.cc/Bb9YskTK/player-1.png"
 }]

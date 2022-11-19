@@ -1,34 +1,31 @@
-import React from 'react';
-import './Carts.css'
+import React, { useState } from 'react';
+import './Carts.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faUserXmark} from '@fortawesome/free-solid-svg-icons'
 
 const Carts = (props) => {
+    const friends= props.friends;
 
-    const friendSet= props.friends;
-
-    // let totalIncome= 0;
-    // for (let index = 0; index < friendSet.length; index++) {
-    //     const element = friendSet[index];
-    //     const grandIncome= totalIncome + element.income
-    //     totalIncome= grandIncome
-        
-    // }
-
-    const totalIncome= friendSet.reduce((income, friend) => income + friend.income,0)
-
+    const totalFollowers= friends.reduce((follower, friend) => follower + friend.followers,0)
+    
     return (
         <div className='cart'>
             <h2 className='cart-header'>Friends List</h2>
             <div className='cart-body'>
                 <p style={{lineHeight:'1.5'}}>
-                    Total Friends: {friendSet.length} 
+                    <span>Total Friends: {friends.length}</span> 
                     <br />
-                    Total Income: ${totalIncome}
+                    <span>Total followers: {totalFollowers}</span>
+                    <ul>
+                        {
+                           friends.map(friend => <li>
+                            Name: {friend.name} <FontAwesomeIcon icon={faUserXmark}></FontAwesomeIcon>
+                            <br />
+                            Followers: {friend.followers}
+                           </li>)
+                        }
+                    </ul>
                 </p>
-                <ul>
-                    {
-                        friendSet.map(friend => <li>{friend.name}</li>)
-                    }
-                </ul>
             </div>
         </div>
     );
